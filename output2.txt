@@ -1,0 +1,35 @@
+Job Id : 6	 TTL : 12 TLL : 4 TTC : 8 TLC : 8SI : 2	 PI : 3	 TI : 0INVALID PAGE FAULT......
+One Program Terminated
+
+^__^
+(<>)
+(&&)
+(^^)
+Job Id : 2	 TTL : 12 TLL : 4 TTC : 12 TLC : 12SI : 3	 PI : 0	 TI : 0
+One Program Terminated
+
+NOT SAME
+Job Id : 3	 TTL : 15 TLL : 2 TTC : 12 TLC : 12SI : 3	 PI : 0	 TI : 0
+One Program Terminated
+
+^__^
+(<>)
+(&&)
+Job Id : 4	 TTL : 12 TLL : 3 TTC : 11 TLC : 11SI : 2	 PI : 0	 TI : 0
+One Program Terminated
+
+EM = 2 : Total Line Limit Exceeded while WRITE...........................
+^__^
+(<>)
+EM = 3 : Total Time Limit Exceeded while WRITE..................Job Id : 5	 TTL : 10 TLL : 4 TTC : 10 TLC : 10SI : 2	 PI : 0	 TI : 2
+One Program Terminated
+
+EM = 3 : Total Time Limit Exceeded ..................Job Id : 5	 TTL : 10 TLL : 4 TTC : 10 TLC : 10SI : 2	 PI : 0	 TI : 2
+One Program Terminated
+
+Job Id : 8	 TTL : 15 TLL : 2 TTC : 0 TLC : 0SI : 0	 PI : 2	 TI : 0Operand Error Terminated the program......
+One Program Terminated
+
+Job Id : 9	 TTL : 12 TLL : 4 TTC : 6 TLC : 6SI : 1	 PI : 0	 TI : 0
+One Program Terminated
+
